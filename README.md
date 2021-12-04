@@ -1,7 +1,5 @@
 ### Olá! Eu sou Rodolfo H Okino 👋
 
-##
-
 - 🔭 Hoje eu trabalho com Desenvolvimento de Software e Técnico de elétrica e eletrônica
 - 🌱 Estudando Rest API em Java para Back-end e ReactJs com Typescript para Front-End
 - ⚡ Fato legal: Migrando da área técnica para a de desenvolvimento de software
@@ -15,7 +13,7 @@
   </a>
 </div>
 
-<div style="display: inline_block"><br>
+<div align="right" style="display: inline_block"><br>
   <img align="center" alt="Rudolf-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rudolf-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Rudolf-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
