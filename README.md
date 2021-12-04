@@ -8,8 +8,6 @@
 
 ##
 
-📊 GitHub Stats
-
 <div>
   <a href="https://github.com/rodolfoHOk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolfoHOk&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -18,8 +16,6 @@
 </div>
 
 ##
-
-👨‍💻 Techs
 
 <div style="display: inline_block">
   <img align="center" alt="Rudolf-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -32,8 +28,6 @@
 </div>
 
 ## 
-
-📫 Onde me encontrar
 
 <div>
   <a href = "mailto:hioktec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
