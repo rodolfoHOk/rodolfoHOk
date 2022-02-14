@@ -1,6 +1,6 @@
 ### Olá! Eu sou Rodolfo H Okino 👋
 
-🔭 Desenvolvedor de Software e Técnico de elétrica e eletrônica
+🔭 Desenvolvedor de Software e Técnico de elétrica-eletrônica e TI
 
 🌱 Estudando Rest API em Java para Back-end e ReactJs com Typescript para Front-End
 
