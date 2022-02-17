@@ -13,15 +13,9 @@
 
 ### 🧑‍💻 Principais Habilidades e Tecnologias: ✨
 
-- Desenvolvimento Web
+- Desenvolvimento Web, Back-End e Front-End
 
-- Desenvolvimento Back-End
-
-- Desenvolvimento Front-End
-
-- Java : Linguagem de Programação
-
-- JavaScript e TypeScript : Linguagens de Programação
+- Java, JavaScript e TypeScript : Linguagens de Programação
 
 - Spring : Framework Java para Desenvolvimento Web
 
