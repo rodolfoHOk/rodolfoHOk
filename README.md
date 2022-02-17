@@ -4,12 +4,12 @@
 
 ⚡ Migrando da área técnica para a de desenvolvimento de software
 
-## 
-
 <div>
   <a href = "mailto:hioktec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodolfoHokino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+##
 
 ### 🧑‍💻 Principais Habilidades e Tecnologias: ✨
 
@@ -37,8 +37,6 @@
 
 - Docker : Empacotamento de Softwares - Containers
 
-##
-
 <div style="display: inline_block">
   <img align="center" alt="Rudolf-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rudolf-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -49,6 +47,8 @@
   <img align="center" alt="Rudolf-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rudolf-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
+
+##
 
 ### 🧑‍🎓 Cursos e Eventos: 🎟️
 
@@ -105,7 +105,6 @@
 - Especialista Spring Rest - AlgaWorks (02/2022)
 
 - Comunicação entre microsserviços - Udemy (02/2022)
-
 
 ##
 
