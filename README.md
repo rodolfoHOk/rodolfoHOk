@@ -80,13 +80,13 @@
 
 - Evento: Next Level Week 7 Heat - RocketSeat (10/2021)
 
-- Curso: Especialista React JS - AlgaWorks (10/2021)
+- Curso: Especialista React JS - AlgaWorks (07/2021 - 10/2021)
 
-- BootCamp: BootCamp Java Developer - Digital Innovation One (11/2021)
+- BootCamp: BootCamp Java Developer - Digital Innovation One (10/2021 - 11/2021)
 
 - Evento: Imersão React 4 - Alura (01/2022)
 
-- Curso: Especialista Spring Rest - AlgaWorks (02/2022)
+- Curso: Especialista Spring Rest - AlgaWorks (12/2021 - 02/2022)
 
 - Curso: Comunicação entre microsserviços - Udemy (02/2022)
 
