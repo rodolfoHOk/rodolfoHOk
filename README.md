@@ -56,16 +56,6 @@
 
 - Laboratório Java com Testes, Spring e Design Patterns - Apostila Caelum Curso FJ-22 (11/2019)
 
-- Apostila de Android: Programação Básica 9a edição - LucianoDev (12/2019)
-
-- Java Essencial para Android - EBook AndroidPro (12/2019)
-
-- Comecando com Android Studio - EBook AndroidPro (12/2019)
-
-- Android Aprendiz - EBook AndroidPro (12/2019)
-
-- Crie seu primeiro app Android com Kotlin - EBook AndroidPro (12/2019)
-
 - Imersão React - Alura (08/2020)
 
 - Spring Boot + React Js: Desenvolva Aplicações Web Completas - Udemy (10/2020)
