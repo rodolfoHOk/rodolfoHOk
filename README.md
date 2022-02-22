@@ -46,49 +46,49 @@
 
 ### 🧑‍🎓 Cursos e Eventos: 🎟️
 
-- Java e Orientação a Objetos - Apostila Caelum Curso FJ-11 (09/2019)
+- Curso: Java e Orientação a Objetos - Apostila Caelum Curso FJ-11 (09/2019)
 
-- Java para Desenvolvimento Web - Apostila Caelum Curso FJ-21 (09/2019)
+- Curso: Java para Desenvolvimento Web - Apostila Caelum Curso FJ-21 (09/2019)
 
-- Laboratório Java com Testes, XML e Design Patterns - Apostila Caelum Curso FJ-16 (10/2019)
+- Curso: Laboratório Java com Testes, XML e Design Patterns - Apostila Caelum Curso FJ-16 (10/2019)
 
-- Laboratório Java com Testes, JSF, Web Services e Design Patterns - Apostila Caelum Curso FJ-22 (11/2019)
+- Curso: Laboratório Java com Testes, JSF, Web Services e Design Patterns - Apostila Caelum Curso FJ-22 (11/2019)
 
-- Laboratório Java com Testes, Spring e Design Patterns - Apostila Caelum Curso FJ-22 (11/2019)
+- Curso: Laboratório Java com Testes, Spring e Design Patterns - Apostila Caelum Curso FJ-22 (11/2019)
 
-- Imersão React - Alura (08/2020)
+- Evento: Imersão React - Alura (08/2020)
 
-- Spring Boot + React Js: Desenvolva Aplicações Web Completas - Udemy (10/2020)
+- Curso: Spring Boot + React Js: Desenvolva Aplicações Web Completas - Udemy (10/2020)
 
-- Imersão React-Next 2- Alura (01/2021)
+- Evento: Imersão React-Next 2- Alura (01/2021)
 
-- O curso completo de Banco de Dados e SQL, sem mistérios! - Udemy (02/2021) 
+- Curso: O curso completo de Banco de Dados e SQL, sem mistérios! - Udemy (02/2021) 
 
-- Angular 9 + Spring Boot 2.2: Fullstack Completo e Atualizado - Udemy (03/2021)
+- Curso: Angular 9 + Spring Boot 2.2: Fullstack Completo e Atualizado - Udemy (03/2021)
 
-- Next Level Week 5 Trilha React - RocketSeat (04/2021)
+- Evento: Next Level Week 5 Trilha React - RocketSeat (04/2021)
 
-- BootCamp Kubernetes - Kubedev (05/2021)
+- Evento: BootCamp Kubernetes - Kubedev (05/2021)
 
-- BootCamp de Cloud 5a edição - Cloud Treinamentos (05/2021)
+- Evento: BootCamp de Cloud 5a edição - Cloud Treinamentos (05/2021)
 
-- Mergulho Spring Rest - AlgaWorks (05/2021)
+- Evento: Mergulho Spring Rest - AlgaWorks (05/2021)
 
-- Next Level Week 6 Trilha React - RocketSeat (06/2021)
+- Evento: Next Level Week 6 Trilha React - RocketSeat (06/2021)
 
-- Imersão React 3 - Alura (07/2021)
+- Evento: Imersão React 3 - Alura (07/2021)
 
-- Next Level Week 7 Heat - RocketSeat (10/2021)
+- Evento: Next Level Week 7 Heat - RocketSeat (10/2021)
 
-- Especialista React JS - AlgaWorks (10/2021)
+- Curso: Especialista React JS - AlgaWorks (10/2021)
 
-- BootCamp Java Developer - Digital Innovation One (11/2021)
+- BootCamp: BootCamp Java Developer - Digital Innovation One (11/2021)
 
-- Imersão React 4 - Alura (01/2022)
+- Evento: Imersão React 4 - Alura (01/2022)
 
-- Especialista Spring Rest - AlgaWorks (02/2022)
+- Curso: Especialista Spring Rest - AlgaWorks (02/2022)
 
-- Comunicação entre microsserviços - Udemy (02/2022)
+- Curso: Comunicação entre microsserviços - Udemy (02/2022)
 
 ##
 
