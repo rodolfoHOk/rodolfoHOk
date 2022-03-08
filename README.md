@@ -90,6 +90,8 @@
 
 - Curso: Comunicação entre microsserviços - Udemy (02/2022)
 
+- Curso: Algorítimos e Estrutura de Dados em Java - Apostila Caelum CS-14 (03/2022)
+
 ##
 
 <div>
