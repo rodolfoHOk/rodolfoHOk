@@ -76,7 +76,7 @@
 
 - Evento: Next Level Week 6 Trilha React - RocketSeat (06/2021)
 
-- Evento: Imersão React 3 - Alura (07/2021)
+- Evento: Imersão React 3 - Alura (07/2021) - [Repo](https://github.com/rodolfoHOk/alura.alurakut)
 
 - Evento: Next Level Week 7 Heat - RocketSeat (10/2021) - Repos [1](https://github.com/rodolfoHOk/rocketseat.nlw-heat-node) [2](https://github.com/rodolfoHOk/rocketseat.nlw-heat-web) [3](https://github.com/rodolfoHOk/rocketseat.nlw-heat-mobile) [4](https://github.com/rodolfoHOk/rocketseat.nlw-heat-elixir)
 
