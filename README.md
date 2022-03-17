@@ -92,7 +92,7 @@
 
 - Curso: Algorítimos e Estrutura de Dados em Java - Apostila Caelum CS-14 (03/2022) - [Repo](https://github.com/rodolfoHOk/caelum.java-estrutura-de-dados)
 
-- Evento: Philips Dev Week - Digital Innovation One (03/2022) - [Back-End Repo](https://github.com/rodolfoHOk/dio.philips-dev-week-backend), [Front-End Repo](https://github.com/rodolfoHOk/dio.philips-dev-week-frontend)
+- Evento: Philips Dev Week - Digital Innovation One (03/2022) - Repos [1](https://github.com/rodolfoHOk/dio.philips-dev-week-backend)  [2](https://github.com/rodolfoHOk/dio.philips-dev-week-frontend)
 
 ##
 
