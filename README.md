@@ -92,6 +92,8 @@
 
 - Curso: Algorítimos e Estrutura de Dados em Java - Apostila Caelum CS-14 (03/2022)
 
+- Evento: Philips Dev Week - Digital Innovation One (03/2022)
+
 ##
 
 <div>
