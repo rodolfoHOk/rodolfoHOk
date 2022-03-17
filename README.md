@@ -62,7 +62,7 @@
 
 - Evento: Imersão React-Next 2- Alura (01/2021)
 
-- Curso: O curso completo de Banco de Dados e SQL, sem mistérios! - Udemy (02/2021) 
+- Curso: O curso completo de Banco de Dados e SQL, sem mistérios! - Udemy (02/2021) - [Repo](https://github.com/rodolfoHOk/udemy.banco-dados-sql)
 
 - Curso: Angular 9 + Spring Boot 2.2: Fullstack Completo e Atualizado - Udemy (03/2021)
 
@@ -72,27 +72,27 @@
 
 - Evento: BootCamp de Cloud 5a edição - Cloud Treinamentos (05/2021)
 
-- Evento: Mergulho Spring Rest - AlgaWorks (05/2021)
+- Evento: Mergulho Spring Rest - AlgaWorks (05/2021) - [Repo](https://github.com/rodolfoHOk/algaworks.hioklog-api)
 
 - Evento: Next Level Week 6 Trilha React - RocketSeat (06/2021)
 
 - Evento: Imersão React 3 - Alura (07/2021)
 
-- Evento: Next Level Week 7 Heat - RocketSeat (10/2021)
+- Evento: Next Level Week 7 Heat - RocketSeat (10/2021) - Repos [1](https://github.com/rodolfoHOk/rocketseat.nlw-heat-node) [2](https://github.com/rodolfoHOk/rocketseat.nlw-heat-web) [3](https://github.com/rodolfoHOk/rocketseat.nlw-heat-mobile) [4](https://github.com/rodolfoHOk/rocketseat.nlw-heat-elixir)
 
-- Curso: Especialista React JS - AlgaWorks (07/2021 - 10/2021)
+- Curso: Especialista React JS - AlgaWorks (07/2021 - 10/2021) - Repos [1](https://github.com/rodolfoHOk/algaworks.alganews-cms) [2](https://github.com/rodolfoHOk/algaworks.alganews-admin) [3](https://github.com/rodolfoHOk/algaworks.alganews-blog)
 
 - BootCamp: BootCamp Java Developer - Digital Innovation One (10/2021 - 11/2021)
 
-- Evento: Imersão React 4 - Alura (01/2022)
+- Evento: Imersão React 4 - Alura (01/2022) - [Repo](https://github.com/rodolfoHOk/alura.aluracord)
 
-- Curso: Especialista Spring Rest - AlgaWorks (12/2021 - 02/2022)
+- Curso: Especialista Spring Rest - AlgaWorks (12/2021 - 02/2022) - [Repo](https://github.com/rodolfoHOk/algaworks.algafood-api)
 
-- Curso: Comunicação entre microsserviços - Udemy (02/2022)
+- Curso: Comunicação entre microsserviços - Udemy (02/2022) - [Repo](https://github.com/rodolfoHOk/udemy.comunicacao-microsservicos)
 
-- Curso: Algorítimos e Estrutura de Dados em Java - Apostila Caelum CS-14 (03/2022)
+- Curso: Algorítimos e Estrutura de Dados em Java - Apostila Caelum CS-14 (03/2022) - [Repo](https://github.com/rodolfoHOk/caelum.java-estrutura-de-dados)
 
-- Evento: Philips Dev Week - Digital Innovation One (03/2022)
+- Evento: Philips Dev Week - Digital Innovation One (03/2022) - [Back-End Repo](https://github.com/rodolfoHOk/dio.philips-dev-week-backend), [Front-End Repo](https://github.com/rodolfoHOk/dio.philips-dev-week-frontend)
 
 ##
 
