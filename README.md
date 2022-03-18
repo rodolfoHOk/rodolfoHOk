@@ -94,6 +94,8 @@
 
 - Evento: Philips Dev Week - Digital Innovation One (03/2022) - repos [1](https://github.com/rodolfoHOk/dio.philips-dev-week-backend)  [2](https://github.com/rodolfoHOk/dio.philips-dev-week-frontend)
 
+- Estudos: Design Patterns com exemplos em Java - Refactoring Guru - [repo](https://github.com/rodolfoHOk/refactoring-guru.design-patterns)
+
 ##
 
 <div>
