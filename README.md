@@ -64,7 +64,7 @@
 
 - Curso: O curso completo de Banco de Dados e SQL, sem mistérios! - Udemy (02/2021) - [repo](https://github.com/rodolfoHOk/udemy.banco-dados-sql)
 
-- Curso: Angular 9 + Spring Boot 2.2: Fullstack Completo e Atualizado - Udemy (03/2021)
+- Curso: Angular 9 + Spring Boot 2.2: Fullstack Completo e Atualizado - Udemy (03/2021) - repos [1](https://github.com/rodolfoHOk/udemy.clientes-api) [2](https://github.com/rodolfoHOk/udemy.clientes-app) [3](https://github.com/rodolfoHOk/udemy.agenda-api) [4](https://github.com/rodolfoHOk/udemy.agenda-app)
 
 - Evento: Next Level Week 5 Trilha React - RocketSeat (04/2021) - [repo](https://github.com/rodolfoHOk/rocketseat.podcastr)
 
