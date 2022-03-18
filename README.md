@@ -58,7 +58,7 @@
 
 - Evento: Imersão React - Alura (08/2020) - [repo](https://github.com/rodolfoHOk/alura.doolpflix)
 
-- Curso: Spring Boot + React Js: Desenvolva Aplicações Web Completas - Udemy (10/2020)
+- Curso: Spring Boot + React Js: Desenvolva Aplicações Web Completas - Udemy (10/2020) - repos [1](https://github.com/rodolfoHOk/udemy.minhasfinancas.api) [2](https://github.com/rodolfoHOk/udemy.minhasfinancas.app)
 
 - Evento: Imersão React-Next 2- Alura (01/2021) - [repo](https://github.com/rodolfoHOk/alura.doolpquiz)
 
