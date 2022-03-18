@@ -66,7 +66,7 @@
 
 - Curso: Angular 9 + Spring Boot 2.2: Fullstack Completo e Atualizado - Udemy (03/2021)
 
-- Evento: Next Level Week 5 Trilha React - RocketSeat (04/2021)
+- Evento: Next Level Week 5 Trilha React - RocketSeat (04/2021) - [repo](https://github.com/rodolfoHOk/rocketseat.podcastr)
 
 - Evento: BootCamp Kubernetes - Kubedev (05/2021)
 
