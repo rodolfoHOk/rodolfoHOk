@@ -56,11 +56,11 @@
 
 - Curso: Laboratório Java com Testes, Spring e Design Patterns - Apostila Caelum Curso FJ-22 (11/2019)
 
-- Evento: Imersão React - Alura (08/2020)
+- Evento: Imersão React - Alura (08/2020) - [repo](https://github.com/rodolfoHOk/alura.doolpflix)
 
 - Curso: Spring Boot + React Js: Desenvolva Aplicações Web Completas - Udemy (10/2020)
 
-- Evento: Imersão React-Next 2- Alura (01/2021)
+- Evento: Imersão React-Next 2- Alura (01/2021) - [repo](https://github.com/rodolfoHOk/alura.doolpquiz)
 
 - Curso: O curso completo de Banco de Dados e SQL, sem mistérios! - Udemy (02/2021) - [repo](https://github.com/rodolfoHOk/udemy.banco-dados-sql)
 
