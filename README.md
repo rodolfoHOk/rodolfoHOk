@@ -96,6 +96,8 @@
 
 - Estudos: Design Patterns com exemplos em Java - Refactoring Guru (03/2022) - [repo](https://github.com/rodolfoHOk/refactoring-guru.design-patterns)
 
+- Live Coding: Criando o sistema de VOTAÇÃO ONLINE do BBB - Digital Innovation One - repos [1](https://github.com/rodolfoHOk/dio.livecoding-votacao-online-front) [2](https://github.com/rodolfoHOk/dio.livecoding-votacao-online-api) [3](https://github.com/rodolfoHOk/dio.livecoding-votacao-online-microservice)
+
 ##
 
 <div>
