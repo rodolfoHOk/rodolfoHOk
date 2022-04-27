@@ -98,7 +98,7 @@
 
 - Live Coding: Criando o sistema de VOTAÇÃO ONLINE do BBB - Digital Innovation One (04/2022) - repos [1](https://github.com/rodolfoHOk/dio.livecoding-votacao-online-front) [2](https://github.com/rodolfoHOk/dio.livecoding-votacao-online-api) [3](https://github.com/rodolfoHOk/dio.livecoding-votacao-online-microservice)
 
-- Bootcamp: Bootcamp Philips Fullstack Developer - Digital Innovation One (03/2022 - 04/2022) - [repo](https://github.com/rodolfoHOk/dio.desafio-git-github)
+- Bootcamp: Bootcamp Philips Fullstack Developer - Digital Innovation One (03/2022 - 04/2022) - [repo](https://github.com/rodolfoHOk/dio.desafio-git-github) [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/dio-philips-fullstack-dev.pdf)
 
 ##
 
