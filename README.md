@@ -82,7 +82,7 @@
 
 - Curso: Especialista React JS - AlgaWorks (07/2021 - 10/2021) - repos [1](https://github.com/rodolfoHOk/algaworks.alganews-cms) [2](https://github.com/rodolfoHOk/algaworks.alganews-admin) [3](https://github.com/rodolfoHOk/algaworks.alganews-blog)
 
-- BootCamp: BootCamp Java Developer - Digital Innovation One (10/2021 - 11/2021) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/dio-java-developer.pdf)
+- Bootcamp: Bootcamp Java Developer - Digital Innovation One (10/2021 - 11/2021) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/dio-java-developer.pdf)
 
 - Evento: Imersão React 4 - Alura (01/2022) - [repo](https://github.com/rodolfoHOk/alura.aluracord)
 
@@ -97,6 +97,8 @@
 - Estudos: Design Patterns com exemplos em Java - Refactoring Guru (03/2022) - [repo](https://github.com/rodolfoHOk/refactoring-guru.design-patterns)
 
 - Live Coding: Criando o sistema de VOTAÇÃO ONLINE do BBB - Digital Innovation One (04/2022) - repos [1](https://github.com/rodolfoHOk/dio.livecoding-votacao-online-front) [2](https://github.com/rodolfoHOk/dio.livecoding-votacao-online-api) [3](https://github.com/rodolfoHOk/dio.livecoding-votacao-online-microservice)
+
+- Bootcamp: Bootcamp Philips Fullstack Developer - Digital Innovation One (03/2022 - 04/2022) - [repo](https://github.com/rodolfoHOk/dio.desafio-git-github)
 
 ##
 
