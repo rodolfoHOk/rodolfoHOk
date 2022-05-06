@@ -100,6 +100,8 @@
 
 - Bootcamp: Bootcamp Philips Fullstack Developer - Digital Innovation One (03/2022 - 04/2022) - [repo](https://github.com/rodolfoHOk/dio.desafio-git-github) [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/dio-philips-fullstack-dev.pdf)
 
+- Evento: Next Level Week 8 Return - RocketSeat (05/2022) - repos [1](https://github.com/rodolfoHOk/rocketseat.feedback-widget-server) [2](https://github.com/rodolfoHOk/rocketseat.feedback-widget-web) [3](https://github.com/rodolfoHOk/rocketseat.feedback-widget-mobile)
+
 ##
 
 <div>
