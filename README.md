@@ -44,7 +44,7 @@
 
 ##
 
-### 🧑‍🎓 Cursos e Eventos: 🎟️
+### 🧑‍🎓 Cursos, Eventos e Projetos: 🎟️
 
 - Projeto: Site MRJ Serviços - criado e mantido entre (2011-2018) - [repo](https://github.com/rodolfoHOk/hiok.site-mrj), [page](https://rodolfohok.github.io/hiok.site-mrj/index.htm)
 
