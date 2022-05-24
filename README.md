@@ -46,6 +46,8 @@
 
 ### 🧑‍🎓 Cursos e Eventos: 🎟️
 
+- Projeto: Site MRJ Serviços - criado e mantido entre (2011-2018) - [repo](https://github.com/rodolfoHOk/hiok.site-mrj), [page](https://rodolfohok.github.io/hiok.site-mrj/index.htm)
+
 - Curso: Java e Orientação a Objetos - Apostila Caelum Curso FJ-11 (09/2019)
 
 - Curso: Java para Desenvolvimento Web - Apostila Caelum Curso FJ-21 (09/2019)
@@ -101,6 +103,8 @@
 - Bootcamp: Bootcamp Philips Fullstack Developer - Digital Innovation One (03/2022 - 04/2022) - [repo](https://github.com/rodolfoHOk/dio.desafio-git-github) [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/dio-philips-fullstack-dev.pdf)
 
 - Evento: Next Level Week 8 Return - RocketSeat (05/2022) - repos [1](https://github.com/rodolfoHOk/rocketseat.feedback-widget-server) [2](https://github.com/rodolfoHOk/rocketseat.feedback-widget-web) [3](https://github.com/rodolfoHOk/rocketseat.feedback-widget-mobile)
+
+- Live Coding: Spider-Man Multiverse da DIO (05/2022) - [repo](https://github.com/rodolfoHOk/dio.livecoding-spiderman-multiverse), [page](https://rodolfohok.github.io/dio.livecoding-spiderman-multiverse/)
 
 ##
 
