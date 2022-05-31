@@ -112,6 +112,8 @@
 
 - Live Coding: Spider-Man Multiverse da DIO (05/2022) - [repo](https://github.com/rodolfoHOk/dio.livecoding-spiderman-multiverse), [page](https://rodolfohok.github.io/dio.livecoding-spiderman-multiverse/)
 
+- Live Coding - Hacking prático na web: Ataques, Mitigações e Desafios (05/2022) - [info](https://github.com/rodolfoHOk/dio.livecoding-hacking-pratico)
+
 ##
 
 <div>
