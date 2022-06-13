@@ -31,10 +31,6 @@
 
 - Docker : Empacotamento de Softwares - Containers
 
-- NodeJS : Software que permite a execução de códigos JavaScript fora de um navegador web
-
-- Angular : Plataforma para construção de aplicações web móveis e desktop
-
 <div style="display: inline_block">
   <img align="center" alt="Rudolf-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rudolf-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
