@@ -110,6 +110,10 @@
 
 - Live Coding - Hacking prático na web: Ataques, Mitigações e Desafios (05/2022) - [info](https://github.com/rodolfoHOk/dio.livecoding-hacking-pratico)
 
+- Evento: Imersão FullStack & FullCycle 8 - Code Edu / FullCycle (06-2022) - [main repo](https://github.com/rodolfoHOk/fullcycle.imersaofsfc8)
+
+- Evento: Ignite Lab | React - RocketSeat (06-2022) - [repo](https://github.com/rodolfoHOk/rocketseat.event-platform)
+
 ##
 
 <div>
