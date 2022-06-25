@@ -84,7 +84,7 @@
 
 - Evento: Next Level Week 7 Heat - RocketSeat (10/2021) - repos [1](https://github.com/rodolfoHOk/rocketseat.nlw-heat-node) [2](https://github.com/rodolfoHOk/rocketseat.nlw-heat-web) [3](https://github.com/rodolfoHOk/rocketseat.nlw-heat-mobile) [4](https://github.com/rodolfoHOk/rocketseat.nlw-heat-elixir)
 
-- Curso: Especialista React JS - AlgaWorks (07/2021 - 10/2021) - repos [1](https://github.com/rodolfoHOk/algaworks.alganews-cms) [2](https://github.com/rodolfoHOk/algaworks.alganews-admin) [3](https://github.com/rodolfoHOk/algaworks.alganews-blog) - [certificado] (https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-erjs.png)
+- Curso: Especialista React JS - AlgaWorks (07/2021 - 10/2021) - repos [1](https://github.com/rodolfoHOk/algaworks.alganews-cms) [2](https://github.com/rodolfoHOk/algaworks.alganews-admin) [3](https://github.com/rodolfoHOk/algaworks.alganews-blog) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-erjs.png)
 
 - Bootcamp: Bootcamp Java Developer - Digital Innovation One (10/2021 - 11/2021) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/dio-java-developer.pdf)
 
