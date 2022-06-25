@@ -84,13 +84,13 @@
 
 - Evento: Next Level Week 7 Heat - RocketSeat (10/2021) - repos [1](https://github.com/rodolfoHOk/rocketseat.nlw-heat-node) [2](https://github.com/rodolfoHOk/rocketseat.nlw-heat-web) [3](https://github.com/rodolfoHOk/rocketseat.nlw-heat-mobile) [4](https://github.com/rodolfoHOk/rocketseat.nlw-heat-elixir)
 
-- Curso: Especialista React JS - AlgaWorks (07/2021 - 10/2021) - repos [1](https://github.com/rodolfoHOk/algaworks.alganews-cms) [2](https://github.com/rodolfoHOk/algaworks.alganews-admin) [3](https://github.com/rodolfoHOk/algaworks.alganews-blog)
+- Curso: Especialista React JS - AlgaWorks (07/2021 - 10/2021) - repos [1](https://github.com/rodolfoHOk/algaworks.alganews-cms) [2](https://github.com/rodolfoHOk/algaworks.alganews-admin) [3](https://github.com/rodolfoHOk/algaworks.alganews-blog) - [certificado] (https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-erjs.png)
 
 - Bootcamp: Bootcamp Java Developer - Digital Innovation One (10/2021 - 11/2021) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/dio-java-developer.pdf)
 
 - Evento: Imersão React 4 - Alura (01/2022) - [repo](https://github.com/rodolfoHOk/alura.aluracord)
 
-- Curso: Especialista Spring Rest - AlgaWorks (12/2021 - 02/2022) - [repo](https://github.com/rodolfoHOk/algaworks.algafood-api)
+- Curso: Especialista Spring Rest - AlgaWorks (12/2021 - 02/2022) - [repo](https://github.com/rodolfoHOk/algaworks.algafood-api) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-esr.png)
 
 - Curso: Comunicação entre microsserviços - Udemy (02/2022) - [repo](https://github.com/rodolfoHOk/udemy.comunicacao-microsservicos)
 
@@ -102,7 +102,7 @@
 
 - Live Coding: Criando o sistema de VOTAÇÃO ONLINE do BBB - Digital Innovation One (04/2022) - repos [1](https://github.com/rodolfoHOk/dio.livecoding-votacao-online-front) [2](https://github.com/rodolfoHOk/dio.livecoding-votacao-online-api) [3](https://github.com/rodolfoHOk/dio.livecoding-votacao-online-microservice)
 
-- Bootcamp: Bootcamp Philips Fullstack Developer - Digital Innovation One (03/2022 - 04/2022) - [repo](https://github.com/rodolfoHOk/dio.desafio-git-github) [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/dio-philips-fullstack-dev.pdf)
+- Bootcamp: Bootcamp Philips Fullstack Developer - Digital Innovation One (03/2022 - 04/2022) - [repo](https://github.com/rodolfoHOk/dio.desafio-git-github) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/dio-philips-fullstack-dev.pdf)
 
 - Evento: Next Level Week 8 Return - RocketSeat (05/2022) - repos [1](https://github.com/rodolfoHOk/rocketseat.feedback-widget-server) [2](https://github.com/rodolfoHOk/rocketseat.feedback-widget-web) [3](https://github.com/rodolfoHOk/rocketseat.feedback-widget-mobile)
 
