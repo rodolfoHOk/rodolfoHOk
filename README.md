@@ -114,6 +114,8 @@
 
 - Evento: Ignite Lab | React - RocketSeat (06-2022) - [repo](https://github.com/rodolfoHOk/rocketseat.event-platform)
 
+- Evento: Imersão Java - Alura (07-2022) - repos [1](https://github.com/rodolfoHOk/alura.imersao-java-stickers) [2](https://github.com/rodolfoHOk/alura.imersao-java-linguagens)
+
 ##
 
 <div>
