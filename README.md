@@ -116,6 +116,10 @@
 
 - Evento: Imersão Java - Alura (07-2022) - repos [1](https://github.com/rodolfoHOk/alura.imersao-java-stickers) [2](https://github.com/rodolfoHOk/alura.imersao-java-linguagens)
 
+- Evento: Imersão Full Cycle Full Stack 9 - Code Edu (08-2022) - [repo](https://github.com/rodolfoHOk/fullcycle.imersaofsfc9)
+
+- Evento: Semana Front-End Mundo Invertido - Digital Innovation One (08-2022) - [repo](https://github.com/rodolfoHOk/dio.mundo-invertido)
+
 ##
 
 <div>
