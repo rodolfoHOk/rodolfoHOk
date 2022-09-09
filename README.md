@@ -120,6 +120,8 @@
 
 - Evento: Semana Front-End Mundo Invertido - Digital Innovation One (08-2022) - [repo](https://github.com/rodolfoHOk/dio.mundo-invertido)
 
+- Evento: Pottencial Dev Week - Digital Innovation One (08-2022) - [repo](https://github.com/rodolfoHOk/dio.pottencial-dev-week)
+
 ##
 
 <div>
