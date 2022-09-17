@@ -122,6 +122,8 @@
 
 - Evento: Pottencial Dev Week - Digital Innovation One (08-2022) - [repo](https://github.com/rodolfoHOk/dio.pottencial-dev-week)
 
+- Evento: Next Level Week 9 eSports - RocketSeat (09/2022) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-esports)
+
 ##
 
 <div>
