@@ -124,6 +124,8 @@
 
 - Evento: Next Level Week 9 eSports - RocketSeat (09/2022) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-esports)
 
+- Evento: ifood Dev Week - Digital Innovation One (09/2022) - [repo](https://github.com/rodolfoHOk/dio.ifood-dev-week)
+
 ##
 
 <div>
