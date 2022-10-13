@@ -126,6 +126,8 @@
 
 - Evento: ifood Dev Week - Digital Innovation One (09/2022) - [repo](https://github.com/rodolfoHOk/dio.ifood-dev-week)
 
+- Evento: Ignite Lab Design System - RocketSeat (10/2022) - [repo](https://github.com/rodolfoHOk/rocketseat.lab-design-system)
+
 ##
 
 <div>
