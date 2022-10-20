@@ -128,6 +128,8 @@
 
 - Evento: Ignite Lab Design System - RocketSeat (10/2022) - [repo](https://github.com/rodolfoHOk/rocketseat.lab-design-system)
 
+- Curso: Java e Orientação a Objetos - AlgaWorks (08/2022 - 10/2022) - [repo](https://github.com/rodolfoHOk/algaworks.joo) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-joo.png)
+
 ##
 
 <div>
