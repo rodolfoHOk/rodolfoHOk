@@ -130,6 +130,8 @@
 
 - Curso: Java e Orientação a Objetos - AlgaWorks (08/2022 - 10/2022) - [repo](https://github.com/rodolfoHOk/algaworks.joo) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-joo.png)
 
+- Evento: Maratona Live Code Totvs (estréia da Totvs na twitch.tv) - Totvs (10/2022) - repos [1](https://github.com/rodolfoHOk/totvs.chat-api) [2](https://github.com/rodolfoHOk/totvs.chat-app)
+
 ##
 
 <div>
