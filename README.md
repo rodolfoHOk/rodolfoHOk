@@ -132,6 +132,8 @@
 
 - Evento: Maratona Live Code Totvs (estréia da Totvs na twitch.tv) - Totvs (10/2022) - repos [1](https://github.com/rodolfoHOk/totvs.chat-api) [2](https://github.com/rodolfoHOk/totvs.chat-app)
 
+- Evento: Next Level Week 10 Copa - RocketSeat (11/2022) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-copa)
+
 ##
 
 <div>
