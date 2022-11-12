@@ -134,6 +134,10 @@
 
 - Evento: Next Level Week 10 Copa - RocketSeat (11/2022) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-copa)
 
+- Evento: Go Intensivo - FullCycle (11/2022) - [repo](https://github.com/rodolfoHOk/fullcycle.go-intensivo)
+
+- Evento: Imersão React 5 - Alura (11/2022) - [repo](https://github.com/rodolfoHOk/alura.aluratube)
+
 ##
 
 <div>
