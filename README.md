@@ -138,6 +138,8 @@
 
 - Evento: Imersão React 5 - Alura (11/2022) - [repo](https://github.com/rodolfoHOk/alura.aluratube)
 
+- Live Coding: Máquina de memes da DIO (11/2022) [repo](https://github.com/rodolfoHOk/dio.maquina-de-memes)
+
 ##
 
 <div>
