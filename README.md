@@ -116,7 +116,7 @@
 
 - Evento: Imersão Java - Alura (07-2022) - repos [1](https://github.com/rodolfoHOk/alura.imersao-java-stickers) [2](https://github.com/rodolfoHOk/alura.imersao-java-linguagens)
 
-- Evento: Imersão Full Cycle Full Stack 9 - Code Edu (08-2022) - [repo](https://github.com/rodolfoHOk/fullcycle.imersaofsfc9)
+- Evento: Imersão Full Cycle Full Stack 9 - Code Edu / FullCycle (08-2022) - [repo](https://github.com/rodolfoHOk/fullcycle.imersaofsfc9)
 
 - Evento: Semana Front-End Mundo Invertido - Digital Innovation One (08-2022) - [repo](https://github.com/rodolfoHOk/dio.mundo-invertido)
 
@@ -134,13 +134,17 @@
 
 - Evento: Next Level Week 10 Copa - RocketSeat (11/2022) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-copa)
 
-- Evento: Go Intensivo - FullCycle (11/2022) - [repo](https://github.com/rodolfoHOk/fullcycle.go-intensivo)
+- Evento: Go Intensivo - Code Edu / FullCycle (11/2022) - [repo](https://github.com/rodolfoHOk/fullcycle.go-intensivo)
 
 - Evento: Imersão React 5 - Alura (11/2022) - [repo](https://github.com/rodolfoHOk/alura.aluratube)
 
 - Live Coding: Máquina de memes da DIO (11/2022) - [repo](https://github.com/rodolfoHOk/dio.maquina-de-memes)
 
 - Evento: Semana Spring React - DevSuperior (11/2022) - [repo](https://github.com/rodolfoHOk/devsuperior.dsmeta)
+
+- Evento: Imersão Full Stack Full Cycle 11 - Code Edu / FullCycle (12-2022) - repos [1](https://github.com/rodolfoHOk/fullcycle.imersao11-consolidacao) [2](https://github.com/rodolfoHOk/fullcycle.imersao11-django) [3](https://github.com/rodolfoHOk/fullcycle.imersao11-next)
+
+- Evento: Ignite Lab Node Notifications Service - RocketSeat (12/2022) - [repo](https://github.com/rodolfoHOk/rocketseat.lab-notifications)
 
 ##
 
