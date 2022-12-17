@@ -122,6 +122,8 @@
 
 - Evento: Pottencial Dev Week - Digital Innovation One (08-2022) - [repo](https://github.com/rodolfoHOk/dio.pottencial-dev-week)
 
+- Curso: Especialista Spring Rest (Atualizações SpringDoc e novo Spring Authorization Server) - AlgaWorks (08-2022) - [repo](https://github.com/rodolfoHOk/algaworks.algafood-api) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-esr.png)
+
 - Evento: Next Level Week 9 eSports - RocketSeat (09/2022) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-esports)
 
 - Evento: ifood Dev Week - Digital Innovation One (09/2022) - [repo](https://github.com/rodolfoHOk/dio.ifood-dev-week)
@@ -145,6 +147,8 @@
 - Evento: Imersão Full Stack Full Cycle 11 - Code Edu / FullCycle (12-2022) - repos [1](https://github.com/rodolfoHOk/fullcycle.imersao11-consolidacao) [2](https://github.com/rodolfoHOk/fullcycle.imersao11-django) [3](https://github.com/rodolfoHOk/fullcycle.imersao11-next)
 
 - Evento: Ignite Lab Node Notifications Service - RocketSeat (12/2022) - [repo](https://github.com/rodolfoHOk/rocketseat.lab-notifications)
+
+- Curso: Especialista Spring Rest (Atualização SpringBoot 3) - AlgaWorks (12-2022) - [repo](https://github.com/rodolfoHOk/algaworks.algafood-api) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-esr.png)
 
 ##
 
