@@ -150,6 +150,8 @@
 
 - Curso: Especialista Spring Rest (Atualização SpringBoot 3) - AlgaWorks (12-2022) - [repo](https://github.com/rodolfoHOk/algaworks.algafood-api) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-esr.png)
 
+- Evento: Next Level Week 11 Setup - RocketSeat (01/2023) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-setup)
+
 ##
 
 <div>
