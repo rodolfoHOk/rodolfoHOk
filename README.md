@@ -152,7 +152,7 @@
 
 - Evento: Next Level Week 11 Setup - RocketSeat (01/2023) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-setup)
 
-- Curso: Angular - Loiane Training (12/2022-01-2023) - [repo](https://github.com/rodolfoHOk/loiane-training.curso-angular) - [certificado](https://github.com/rodolfoHOk/portfolio-img/raw/main/images/certificado-loiane-training-curso-angular.png)
+- Curso: Angular - Loiane Training (12/2022-01/2023) - [repo](https://github.com/rodolfoHOk/loiane-training.curso-angular) - [certificado](https://github.com/rodolfoHOk/portfolio-img/raw/main/images/certificado-loiane-training-curso-angular.png)
 
 ##
 
