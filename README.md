@@ -154,6 +154,8 @@
 
 - Curso: Angular - Loiane Training (12/2022-01/2023) - [repo](https://github.com/rodolfoHOk/loiane-training.curso-angular) - [certificado](https://github.com/rodolfoHOk/portfolio-img/raw/main/images/certificado-loiane-training-curso-angular.png)
 
+- Evento: Go Intensivo 2 - Code Edu / FullCycle (03/2023) - [repo](https://github.com/rodolfoHOk/fullcycle.go-intensivo-2)
+
 ##
 
 <div>
