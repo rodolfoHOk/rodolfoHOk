@@ -156,6 +156,8 @@
 
 - Evento: Go Intensivo 2 - Code Edu / FullCycle (03/2023) - [repo](https://github.com/rodolfoHOk/fullcycle.go-intensivo-2)
 
+- Evento: Imersão Java 2 - Alura (03-2023) - [repo](https://github.com/rodolfoHOk/alura.imersao-java-2)
+
 ##
 
 <div>
