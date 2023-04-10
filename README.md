@@ -158,6 +158,8 @@
 
 - Evento: Imersão Java 2 - Alura (03-2023) - [repo](https://github.com/rodolfoHOk/alura.imersao-java-2)
 
+- Evento: MasterClass Automação Residencial com ESP32 (04-2023)
+
 ##
 
 <div>
