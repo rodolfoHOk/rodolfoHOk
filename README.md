@@ -160,6 +160,8 @@
 
 - Evento: MasterClass Automação Residencial com ESP32 (04-2023)
 
+- Evento: Full Cycle Learning Experience - Code Edu / FullCycle (04-2023) - [repo](https://github.com/rodolfoHOk/fullcycle.fclx)
+
 ##
 
 <div>
