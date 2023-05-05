@@ -2,8 +2,6 @@
 
 🔭 Desenvolvedor de Software Fullstack Java React e Técnico de elétrica-eletrônica e TI
 
-⚡ Migrando da área técnica para a de desenvolvimento de software
-
 <div>
   <a href = "mailto:hioktec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodolfoHokino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
