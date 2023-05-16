@@ -160,6 +160,10 @@
 
 - Evento: Full Cycle Learning Experience - Code Edu / FullCycle (04-2023) - [repo](https://github.com/rodolfoHOk/fullcycle.fclx)
 
+- Evento: Intensivão Java Spring - DevSuperior (05-2023) - [repo](https://github.com/rodolfoHOk/devsuperior.dslist)
+
+- Evento: Next Level Week 12 Spacetime - RocketSeat (05/2023) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-spacetime)
+
 ##
 
 <div>
