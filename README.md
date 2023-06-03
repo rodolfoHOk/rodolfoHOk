@@ -167,7 +167,7 @@
 
 - Evento: Next Level Week 12 Spacetime - RocketSeat (05/2023) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-spacetime)
 
-- Live Coding: Criando seu Avatar com Inteligência Artificial Generativa utilizando Java e Microsserviços - DIO (05/2023) - [info](https://github.com/rodolfoHOk/dio.ia-avatar)
+- Live Coding: Criando seu Avatar com Inteligência Artificial Generativa utilizando Java e Microsserviços - DIO (05/2023) - [repo](https://github.com/rodolfoHOk/dio.ia-avatar)
 
 ##
 
