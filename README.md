@@ -169,6 +169,10 @@
 
 - Live Coding: Criando seu Avatar com Inteligência Artificial Generativa utilizando Java e Microsserviços - DIO (05/2023) - [repo](https://github.com/rodolfoHOk/dio.ia-avatar)
 
+- Desafio: Place Service com Java, Spring, Spring WebFlux, Spring Data + R2DBC, H2 database e Testes de integração - Giuliana Bezerra (06/2023) - [repo](https://github.com/rodolfoHOk/giuliana.place-service)
+
+- Live Coding: Criando um carrossel parallax do Aranhaverso com React, Next.js 13 e Framer Motion - DIO (06/2023) - [repo](https://github.com/rodolfoHOk/dio.aranhaverso)
+
 ##
 
 <div>
