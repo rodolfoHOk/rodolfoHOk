@@ -173,6 +173,10 @@
 
 - Live Coding: Criando um carrossel parallax do Aranhaverso com React, Next.js 13 e Framer Motion - DIO (06/2023) - [repo](https://github.com/rodolfoHOk/dio.aranhaverso)
 
+- Evento: Imersão Full Cycle Full Stack 13 - Code Edu / FullCycle (06-2023) - [repos](https://github.com/rodolfoHOk/fullcycle.imersao13)
+
+- Evento: Imersão IA - Alura (06-2023)
+
 ##
 
 <div>
