@@ -111,19 +111,19 @@
 
 - Live Coding - Hacking prático na web: Ataques, Mitigações e Desafios (05/2022) - [info](https://github.com/rodolfoHOk/dio.livecoding-hacking-pratico)
 
-- Evento: Imersão FullStack & FullCycle 8 - Code Edu / FullCycle (06-2022) - [main repo](https://github.com/rodolfoHOk/fullcycle.imersaofsfc8)
+- Evento: Imersão FullStack & FullCycle 8 - Code Edu / FullCycle (06/2022) - [main repo](https://github.com/rodolfoHOk/fullcycle.imersaofsfc8)
 
-- Evento: Ignite Lab | React - RocketSeat (06-2022) - [repo](https://github.com/rodolfoHOk/rocketseat.event-platform)
+- Evento: Ignite Lab | React - RocketSeat (06/2022) - [repo](https://github.com/rodolfoHOk/rocketseat.event-platform)
 
 - Evento: Imersão Java - Alura (07-2022) - repos [1](https://github.com/rodolfoHOk/alura.imersao-java-stickers) [2](https://github.com/rodolfoHOk/alura.imersao-java-linguagens)
 
-- Evento: Imersão Full Cycle Full Stack 9 - Code Edu / FullCycle (08-2022) - [repo](https://github.com/rodolfoHOk/fullcycle.imersaofsfc9)
+- Evento: Imersão Full Cycle Full Stack 9 - Code Edu / FullCycle (08/2022) - [repo](https://github.com/rodolfoHOk/fullcycle.imersaofsfc9)
 
-- Evento: Semana Front-End Mundo Invertido - Digital Innovation One (08-2022) - [repo](https://github.com/rodolfoHOk/dio.mundo-invertido)
+- Evento: Semana Front-End Mundo Invertido - Digital Innovation One (08/2022) - [repo](https://github.com/rodolfoHOk/dio.mundo-invertido)
 
-- Evento: Pottencial Dev Week - Digital Innovation One (08-2022) - [repo](https://github.com/rodolfoHOk/dio.pottencial-dev-week)
+- Evento: Pottencial Dev Week - Digital Innovation One (08/2022) - [repo](https://github.com/rodolfoHOk/dio.pottencial-dev-week)
 
-- Curso: Especialista Spring Rest (Atualizações SpringDoc e novo Spring Authorization Server) - AlgaWorks (08-2022) - [repo](https://github.com/rodolfoHOk/algaworks.algafood-api) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-esr.png)
+- Curso: Especialista Spring Rest (Atualizações SpringDoc e novo Spring Authorization Server) - AlgaWorks (08/2022) - [repo](https://github.com/rodolfoHOk/algaworks.algafood-api) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-esr.png)
 
 - Evento: Next Level Week 9 eSports - RocketSeat (09/2022) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-esports)
 
@@ -145,11 +145,11 @@
 
 - Evento: Semana Spring React - DevSuperior (11/2022) - [repo](https://github.com/rodolfoHOk/devsuperior.dsmeta)
 
-- Evento: Imersão Full Stack Full Cycle 11 - Code Edu / FullCycle (12-2022) - repos [1](https://github.com/rodolfoHOk/fullcycle.imersao11-consolidacao) [2](https://github.com/rodolfoHOk/fullcycle.imersao11-django) [3](https://github.com/rodolfoHOk/fullcycle.imersao11-next)
+- Evento: Imersão Full Stack Full Cycle 11 - Code Edu / FullCycle (12/2022) - repos [1](https://github.com/rodolfoHOk/fullcycle.imersao11-consolidacao) [2](https://github.com/rodolfoHOk/fullcycle.imersao11-django) [3](https://github.com/rodolfoHOk/fullcycle.imersao11-next)
 
 - Evento: Ignite Lab Node Notifications Service - RocketSeat (12/2022) - [repo](https://github.com/rodolfoHOk/rocketseat.lab-notifications)
 
-- Curso: Especialista Spring Rest (Atualização SpringBoot 3) - AlgaWorks (12-2022) - [repo](https://github.com/rodolfoHOk/algaworks.algafood-api) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-esr.png)
+- Curso: Especialista Spring Rest (Atualização SpringBoot 3) - AlgaWorks (12/2022) - [repo](https://github.com/rodolfoHOk/algaworks.algafood-api) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-esr.png)
 
 - Evento: Next Level Week 11 Setup - RocketSeat (01/2023) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-setup)
 
@@ -157,13 +157,13 @@
 
 - Evento: Go Intensivo 2 - Code Edu / FullCycle (03/2023) - [repo](https://github.com/rodolfoHOk/fullcycle.go-intensivo-2)
 
-- Evento: Imersão Java 2 - Alura (03-2023) - [repo](https://github.com/rodolfoHOk/alura.imersao-java-2)
+- Evento: Imersão Java 2 - Alura (03/2023) - [repo](https://github.com/rodolfoHOk/alura.imersao-java-2)
 
-- Evento: MasterClass Automação Residencial com ESP32 (04-2023)
+- Evento: MasterClass Automação Residencial com ESP32 (04/2023)
 
-- Evento: Full Cycle Learning Experience - Code Edu / FullCycle (04-2023) - [repo](https://github.com/rodolfoHOk/fullcycle.fclx)
+- Evento: Full Cycle Learning Experience - Code Edu / FullCycle (04/2023) - [repo](https://github.com/rodolfoHOk/fullcycle.fclx)
 
-- Evento: Intensivão Java Spring - DevSuperior (05-2023) - [repo](https://github.com/rodolfoHOk/devsuperior.dslist)
+- Evento: Intensivão Java Spring - DevSuperior (05/2023) - [repo](https://github.com/rodolfoHOk/devsuperior.dslist)
 
 - Evento: Next Level Week 12 Spacetime - RocketSeat (05/2023) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-spacetime)
 
@@ -173,13 +173,13 @@
 
 - Live Coding: Criando um carrossel parallax do Aranhaverso com React, Next.js 13 e Framer Motion - DIO (06/2023) - [repo](https://github.com/rodolfoHOk/dio.aranhaverso)
 
-- Evento: Imersão Full Cycle Full Stack 13 - Code Edu / FullCycle (06-2023) - [repos](https://github.com/rodolfoHOk/fullcycle.imersao13)
+- Evento: Imersão Full Cycle Full Stack 13 - Code Edu / FullCycle (06/2023) - [repos](https://github.com/rodolfoHOk/fullcycle.imersao13)
 
-- Evento: Imersão IA - Alura (06-2023)
+- Evento: Imersão IA - Alura (06/2023)
 
-- Curso: Treinamento de Vue.js 3 - VueJs Brasil (07-2023 - 08-2023) - [repos](https://github.com/rodolfoHOk/igorhalfeld.treinamento-vuejs)
+- Curso: Treinamento de Vue.js 3 - VueJs Brasil (07/2023 - 08/2023) - [repos](https://github.com/rodolfoHOk/igorhalfeld.treinamento-vuejs)
 
-- Evento: Semana do herói Hero Ticket - Hero Code (08-2023) - repos [backend](https://github.com/rodolfoHOk/herocode.hero-tickets-backend) [frontend](https://github.com/rodolfoHOk/herocode.hero-tickets-frontend)
+- Evento: Semana do herói Hero Ticket - Hero Code (08/2023) - repos [backend](https://github.com/rodolfoHOk/herocode.hero-tickets-backend) [frontend](https://github.com/rodolfoHOk/herocode.hero-tickets-frontend)
 
 ##
 
