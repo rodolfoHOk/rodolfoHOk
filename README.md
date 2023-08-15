@@ -177,7 +177,7 @@
 
 - Evento: Imersão IA - Alura (06/2023)
 
-- Curso: Treinamento de Vue.js 3 - VueJs Brasil (07/2023 - 08/2023) - [repos](https://github.com/rodolfoHOk/igorhalfeld.treinamento-vuejs)
+- Curso: Treinamento de Vue.js 3 - VueJs Brasil (07/2023 - 08/2023) - [repos](https://github.com/rodolfoHOk/igorhalfeld.treinamento-vuejs) [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/treinamento-vuejs3-brasil-certificado.pdf)
 
 - Evento: Semana do herói Hero Ticket - Hero Code (08/2023) - repos [backend](https://github.com/rodolfoHOk/herocode.hero-tickets-backend) [frontend](https://github.com/rodolfoHOk/herocode.hero-tickets-frontend)
 
