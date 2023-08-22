@@ -181,6 +181,8 @@
 
 - Evento: Semana do herói Hero Ticket - Hero Code (08/2023) - repos [backend](https://github.com/rodolfoHOk/herocode.hero-tickets-backend) [frontend](https://github.com/rodolfoHOk/herocode.hero-tickets-frontend)
 
+- Evento: IA para Devs - Rocketseat (08/2023) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-ia-para-devs.png)
+
 ##
 
 <div>
