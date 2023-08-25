@@ -183,6 +183,8 @@
 
 - Evento: IA para Devs - Rocketseat (08/2023) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-ia-para-devs.png)
 
+- Evento: Imersão Full Cycle Full Stack 14 - Code Edu / FullCycle (08/2023) - [repos](https://github.com/rodolfoHOk/fullcycle.imersao14)
+
 ##
 
 <div>
