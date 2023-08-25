@@ -1,4 +1,4 @@
-### Olá! Eu sou Rodolfo H Okino 👋
+### Olá! Eu sou Rodolfo HiOk 👋
 
 🔭 Desenvolvedor de Software Fullstack Java React e Técnico de elétrica-eletrônica e TI
 
