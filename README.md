@@ -185,6 +185,9 @@
 
 - Evento: Imersão Full Cycle Full Stack 14 - Code Edu / FullCycle (08/2023) - [repos](https://github.com/rodolfoHOk/fullcycle.imersao14)
 
+- Evento: Imersão Dados IA - Alura (09/2023) - [repo](https://github.com/rodolfoHOk/alura.imersao-dados-ia) 
+
+
 ##
 
 <div>
