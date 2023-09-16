@@ -185,7 +185,11 @@
 
 - Evento: Imersão Full Cycle Full Stack 14 - Code Edu / FullCycle (08/2023) - [repos](https://github.com/rodolfoHOk/fullcycle.imersao14)
 
-- Evento: Imersão Dados IA - Alura (09/2023) - [repo](https://github.com/rodolfoHOk/alura.imersao-dados-ia) 
+- Evento: Imersão Dados IA - Alura (09/2023) - [repo](https://github.com/rodolfoHOk/alura.imersao-dados-ia)
+
+- Evento: Mergulho Java - AlgaWorks (09/2023) - [repo](https://github.com/rodolfoHOk/algaworks.mergulho-java)
+
+- Evento: NLW IA - Rocketseat (09/2023) - [repo](https://github.com/rodolfoHOk/rocketseat.nlw-ia)
 
 
 ##
