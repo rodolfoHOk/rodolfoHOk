@@ -189,7 +189,7 @@
 
 - Evento: Mergulho Java - AlgaWorks (09/2023) - [repo](https://github.com/rodolfoHOk/algaworks.mergulho-java)
 
-- Evento: NLW IA - Rocketseat (09/2023) - [repo](https://github.com/rodolfoHOk/rocketseat.nlw-ia)
+- Evento: NLW IA - Rocketseat (09/2023) - [repo](https://github.com/rodolfoHOk/rocketseat.nlw-ia) [certificado](https://github.com/rodolfoHOk/rocketseat.nlw-ia/blob/main/certificate.pdf)
 
 
 ##
