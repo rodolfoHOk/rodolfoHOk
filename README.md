@@ -193,7 +193,7 @@
 
 - Evento: Curso online de Java - Rocketseat (10/2023) - [repo](https://github.com/rodolfoHOk/rocketseat.todolist)
 
-- Evento: Imersão Full Cycle Full Stack 14 - Code Edu / FullCycle (10/2023) - [repos](https://github.com/rodolfoHOk/fullcycle.imersao15)
+- Evento: Imersão Full Cycle Full Stack 15 - Code Edu / FullCycle (10/2023) - [repos](https://github.com/rodolfoHOk/fullcycle.imersao15)
 
 ##
 
