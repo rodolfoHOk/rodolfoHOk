@@ -195,6 +195,8 @@
 
 - Evento: Imersão Full Cycle Full Stack 15 - Code Edu / FullCycle (10/2023) - [repos](https://github.com/rodolfoHOk/fullcycle.imersao15)
 
+- Evento: Semana do Arquiteto Full Cycle - Code Edu / FullCycle (11/2023) - [repo](https://github.com/rodolfoHOk/fullcycle.arquitetura)
+
 ##
 
 <div>
