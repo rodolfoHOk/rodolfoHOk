@@ -197,6 +197,8 @@
 
 - Evento: Semana do Arquiteto Full Cycle - Code Edu / FullCycle (11/2023) - [repo](https://github.com/rodolfoHOk/fullcycle.arquitetura)
 
+- Curso: Vivendo de automação com Arduino e ESP32 - EngEasier (2023) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-automacao-arduino-esp32.pdf)
+
 ##
 
 <div>
