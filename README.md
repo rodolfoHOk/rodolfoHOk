@@ -197,7 +197,9 @@
 
 - Evento: Semana do Arquiteto Full Cycle - Code Edu / FullCycle (11/2023) - [repo](https://github.com/rodolfoHOk/fullcycle.arquitetura)
 
-- Curso: Vivendo de automação com Arduino e ESP32 - EngEasier (2023) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-automacao-arduino-esp32.pdf)
+- Curso: Vivendo de automação com Arduino e ESP32 - EngEasier (11-2023) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-automacao-arduino-esp32.pdf)
+
+- Curso: Testes automatizados na prática com Spring Boot - Udemy by Giuliana Silva Bezerra (11-2023) - [certificado](https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/certificado-udemy-testes-automatizados-com-spring.jpg), [repo](https://github.com/rodolfoHOk/giuliana.curso-testes-automatizados)
 
 ##
 
