@@ -201,7 +201,7 @@
 
 - Curso: Testes automatizados na prática com Spring Boot - Udemy by Giuliana Silva Bezerra (11-2023) - [certificado](https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/certificado-udemy-testes-automatizados-com-spring.jpg), [repo](https://github.com/rodolfoHOk/giuliana.curso-testes-automatizados)
 
-- Evento: Imersão Front-end - Spotify - Alura (01-2023) - [repo](https://github.com/rodolfoHOk/alura.imersao-frontend-spotify)
+- Evento: Imersão Front-end - Spotify - Alura (01-2024) - [repo](https://github.com/rodolfoHOk/alura.imersao-frontend-spotify)
 
 ##
 
