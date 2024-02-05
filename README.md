@@ -203,6 +203,10 @@
 
 - Evento: Imersão Front-end - Spotify - Alura (01-2024) - [repo](https://github.com/rodolfoHOk/alura.imersao-frontend-spotify)
 
+- Evento: Imersão Full Cycle Full Stack 17 - Code Edu / FullCycle (02/2024) - [repos](https://github.com/rodolfoHOk/fullcycle.imersao17)
+
+- Evento: Semana do Herói - Talk to me - HeroCode (02/2024) - [repos](https://github.com/rodolfoHOk/herocode.talk-to-me)
+
 ##
 
 <div>
