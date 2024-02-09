@@ -19,15 +19,9 @@
 
 - ReactJS :  Biblioteca JavaScript para criar Interfaces de Usuário
 
-- REST API : Arquitetura
+- SQL : Linguagem de consulta estruturada
 
-- OAuth2.0 : Protocolo, especificação, de Autorização para API's web
-
-- Banco de Dados
-
-- SQL : Linguagem para Banco de Dados Relacionais
-
-- Docker : Empacotamento de Softwares - Containers
+- Docker : Containers
 
 <div style="display: inline_block">
   <img align="center" alt="Rudolf-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -37,12 +31,9 @@
   <img align="center" alt="Rudolf-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rudolf-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rudolf-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rudolf-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Rudolf-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rudolf-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Rudolf-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  
-  
+  <img align="center" alt="Rudolf-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 ##
