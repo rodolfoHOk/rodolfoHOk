@@ -38,7 +38,7 @@
 
 ##
 
-## 🧑‍🎓 Meu histórico de estudos 🎟️
+### 🧑‍🎓 Meu histórico de estudos 🎟️
 
 [Estudos](historic.md)
 
