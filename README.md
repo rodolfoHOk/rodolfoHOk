@@ -209,6 +209,8 @@
 
 - Curso: Formação Flutter Specialist - DIO (11/2023 - 02/2024) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-forma%C3%A7%C3%A3o-flutter-dio.pdf) - [repo](https://github.com/rodolfoHOk/dio.formacao-flutter) - desafios [1](https://github.com/rodolfoHOk/dio.imc-dart) [2](https://github.com/rodolfoHOk/dio.imc-flutter) [3](https://github.com/rodolfoHOk/dio.cep-flutter) [4](https://github.com/rodolfoHOk/dio.contatos-flutter) [5](https://github.com/rodolfoHOk/dio.lista-tarefas-flutter) [6](https://github.com/rodolfoHOk/dio.chat-flutter)
 
+- Evento: NLW Expert - Rocketseat (02/2024) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-expert), [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/docs/certificate-nlw-expert.pdf)
+
 ##
 
 <div>
