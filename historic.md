@@ -167,3 +167,5 @@
 - Evento: React na Prática - Nivo - Rocketseat (02/2024) - [repo](https://github.com/rodolfoHOk/rocketseat.react-na-pratica-app)
 
 - Evento: React Native na Prática - Cook App and My Goals App - Rocketseat (03/2024) - repos [1](https://github.com/rodolfoHOk/rocketseat.react-native-cook-app) [2](https://github.com/rodolfoHOk/rocketseat.react-native-my-goals-app)
+
+- Evento: Go lang Conference by FullCycle && Google Clould (18-22/03/2024)
