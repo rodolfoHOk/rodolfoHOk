@@ -171,3 +171,5 @@
 - Evento: Go lang Conference by FullCycle && Google Clould (18-22/03/2024)
 
 - Evento: Imersão Python: Do Excel à Análise de Dados - Alura (25-29/03/2024) - [repo](https://github.com/rodolfoHOk/alura.imersao-python)
+
+- Curso: Formação Android Developer - DIO (02/2024 - 04/2024) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/docs/certificado-formacao-android-dio.jpg) - [repo](https://github.com/rodolfoHOk/dio.formacao-android) - desafios [1](https://github.com/rodolfoHOk/dio.aprenda-kotlin-com-exemplos-lab) [2](https://github.com/rodolfoHOk/dio.android-meu-primeiro-app) [3](https://github.com/rodolfoHOk/dio.android-github-search) [4](https://github.com/rodolfoHOk/dio.copa-2022-android)
