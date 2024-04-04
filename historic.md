@@ -1,6 +1,6 @@
 ## 🧑‍🎓 Meu histórico de estudos 🎟️
 
-- Projeto: Site MRJ Serviços - criado e mantido entre (2011-2018) - [repo](https://github.com/rodolfoHOk/hiok.site-mrj)
+### Cursos e Bootcamps
 
 - Curso: Java e Orientação a Objetos - Apostila Caelum Curso FJ-11 (09/2019)
 
@@ -12,15 +12,47 @@
 
 - Curso: Laboratório Java com Testes, Spring e Design Patterns - Apostila Caelum Curso FJ-22 (11/2019)
 
-- Evento: Imersão React - Alura (08/2020) - [repo](https://github.com/rodolfoHOk/alura.doolpflix)
-
 - Curso: Spring Boot + React Js: Desenvolva Aplicações Web Completas - Udemy (10/2020) - repos [1](https://github.com/rodolfoHOk/udemy.minhasfinancas.api) [2](https://github.com/rodolfoHOk/udemy.minhasfinancas.app)
-
-- Evento: Imersão React-Next 2- Alura (01/2021) - [repo](https://github.com/rodolfoHOk/alura.doolpquiz)
 
 - Curso: O curso completo de Banco de Dados e SQL, sem mistérios! - Udemy (02/2021) - [repo](https://github.com/rodolfoHOk/udemy.banco-dados-sql)
 
 - Curso: Angular 9 + Spring Boot 2.2: Fullstack Completo e Atualizado - Udemy (03/2021) - repos [1](https://github.com/rodolfoHOk/udemy.clientes-api) [2](https://github.com/rodolfoHOk/udemy.clientes-app) [3](https://github.com/rodolfoHOk/udemy.agenda-api) [4](https://github.com/rodolfoHOk/udemy.agenda-app)
+
+- Curso: Especialista React JS - AlgaWorks (07/2021 - 10/2021) - repos [1](https://github.com/rodolfoHOk/algaworks.alganews-cms) [2](https://github.com/rodolfoHOk/algaworks.alganews-admin) [3](https://github.com/rodolfoHOk/algaworks.alganews-blog) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-erjs.png)
+
+- Bootcamp: Bootcamp Java Developer - Digital Innovation One (10/2021 - 11/2021) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/dio-java-developer.pdf)
+
+- Curso: Especialista Spring Rest - AlgaWorks (12/2021 - 02/2022) - [repo](https://github.com/rodolfoHOk/algaworks.algafood-api) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-esr.png)
+
+- Curso: Comunicação entre microsserviços - Udemy (02/2022) - [repo](https://github.com/rodolfoHOk/udemy.comunicacao-microsservicos)
+
+- Curso: Algorítimos e Estrutura de Dados em Java - Apostila Caelum CS-14 (03/2022) - [repo](https://github.com/rodolfoHOk/caelum.java-estrutura-de-dados)
+
+- Bootcamp: Bootcamp Philips Fullstack Developer - Digital Innovation One (03/2022 - 04/2022) - [repo](https://github.com/rodolfoHOk/dio.desafio-git-github) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/dio-philips-fullstack-dev.pdf)
+
+- Curso: Especialista Spring Rest (Atualizações SpringDoc e novo Spring Authorization Server) - AlgaWorks (08/2022) - [repo](https://github.com/rodolfoHOk/algaworks.algafood-api) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-esr.png)
+
+- Curso: Java e Orientação a Objetos - AlgaWorks (08/2022 - 10/2022) - [repo](https://github.com/rodolfoHOk/algaworks.joo) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-joo.png)
+
+- Curso: Especialista Spring Rest (Atualização SpringBoot 3) - AlgaWorks (12/2022) - [repo](https://github.com/rodolfoHOk/algaworks.algafood-api) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-esr.png)
+
+- Curso: Angular - Loiane Training (12/2022-01/2023) - [repo](https://github.com/rodolfoHOk/loiane-training.curso-angular) - [certificado](https://github.com/rodolfoHOk/portfolio-img/raw/main/images/certificado-loiane-training-curso-angular.png)
+
+- Curso: Treinamento de Vue.js 3 - VueJs Brasil (07/2023 - 08/2023) - [repos](https://github.com/rodolfoHOk/igorhalfeld.treinamento-vuejs) [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/treinamento-vuejs3-brasil-certificado.pdf)
+
+- Curso: Vivendo de automação com Arduino e ESP32 - EngEasier (11-2023) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-automacao-arduino-esp32.pdf)
+
+- Curso: Testes automatizados na prática com Spring Boot - Udemy by Giuliana Silva Bezerra (11-2023) - [certificado](https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/certificado-udemy-testes-automatizados-com-spring.jpg), [repo](https://github.com/rodolfoHOk/giuliana.curso-testes-automatizados)
+
+- Curso: Formação Flutter Specialist - DIO (11/2023 - 02/2024) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-forma%C3%A7%C3%A3o-flutter-dio.pdf) - [repo](https://github.com/rodolfoHOk/dio.formacao-flutter) - desafios [1](https://github.com/rodolfoHOk/dio.imc-dart) [2](https://github.com/rodolfoHOk/dio.imc-flutter) [3](https://github.com/rodolfoHOk/dio.cep-flutter) [4](https://github.com/rodolfoHOk/dio.contatos-flutter) [5](https://github.com/rodolfoHOk/dio.lista-tarefas-flutter) [6](https://github.com/rodolfoHOk/dio.chat-flutter)
+
+- Curso: Formação Android Developer - DIO (02/2024 - 04/2024) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/docs/certificado-formacao-android-dio.jpg) - [repo](https://github.com/rodolfoHOk/dio.formacao-android) - desafios [1](https://github.com/rodolfoHOk/dio.aprenda-kotlin-com-exemplos-lab) [2](https://github.com/rodolfoHOk/dio.android-meu-primeiro-app) [3](https://github.com/rodolfoHOk/dio.android-github-search) [4](https://github.com/rodolfoHOk/dio.copa-2022-android)
+
+### Eventos e Live Coding
+
+- Evento: Imersão React - Alura (08/2020) - [repo](https://github.com/rodolfoHOk/alura.doolpflix)
+
+- Evento: Imersão React-Next 2- Alura (01/2021) - [repo](https://github.com/rodolfoHOk/alura.doolpquiz)
 
 - Evento: Next Level Week 5 Trilha React - RocketSeat (04/2021) - [repo](https://github.com/rodolfoHOk/rocketseat.podcastr)
 
@@ -36,25 +68,11 @@
 
 - Evento: Next Level Week 7 Heat - RocketSeat (10/2021) - repos [1](https://github.com/rodolfoHOk/rocketseat.nlw-heat-node) [2](https://github.com/rodolfoHOk/rocketseat.nlw-heat-web) [3](https://github.com/rodolfoHOk/rocketseat.nlw-heat-mobile) [4](https://github.com/rodolfoHOk/rocketseat.nlw-heat-elixir)
 
-- Curso: Especialista React JS - AlgaWorks (07/2021 - 10/2021) - repos [1](https://github.com/rodolfoHOk/algaworks.alganews-cms) [2](https://github.com/rodolfoHOk/algaworks.alganews-admin) [3](https://github.com/rodolfoHOk/algaworks.alganews-blog) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-erjs.png)
-
-- Bootcamp: Bootcamp Java Developer - Digital Innovation One (10/2021 - 11/2021) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/dio-java-developer.pdf)
-
 - Evento: Imersão React 4 - Alura (01/2022) - [repo](https://github.com/rodolfoHOk/alura.aluracord)
-
-- Curso: Especialista Spring Rest - AlgaWorks (12/2021 - 02/2022) - [repo](https://github.com/rodolfoHOk/algaworks.algafood-api) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-esr.png)
-
-- Curso: Comunicação entre microsserviços - Udemy (02/2022) - [repo](https://github.com/rodolfoHOk/udemy.comunicacao-microsservicos)
-
-- Curso: Algorítimos e Estrutura de Dados em Java - Apostila Caelum CS-14 (03/2022) - [repo](https://github.com/rodolfoHOk/caelum.java-estrutura-de-dados)
 
 - Evento: Philips Dev Week - Digital Innovation One (03/2022) - repos [1](https://github.com/rodolfoHOk/dio.philips-dev-week-backend)  [2](https://github.com/rodolfoHOk/dio.philips-dev-week-frontend)
 
-- Estudos: Design Patterns com exemplos em Java - Refactoring Guru (03/2022) - [repo](https://github.com/rodolfoHOk/refactoring-guru.design-patterns)
-
 - Live Coding: Criando o sistema de VOTAÇÃO ONLINE do BBB - Digital Innovation One (04/2022) - repos [1](https://github.com/rodolfoHOk/dio.livecoding-votacao-online-front) [2](https://github.com/rodolfoHOk/dio.livecoding-votacao-online-api) [3](https://github.com/rodolfoHOk/dio.livecoding-votacao-online-microservice)
-
-- Bootcamp: Bootcamp Philips Fullstack Developer - Digital Innovation One (03/2022 - 04/2022) - [repo](https://github.com/rodolfoHOk/dio.desafio-git-github) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/dio-philips-fullstack-dev.pdf)
 
 - Evento: Next Level Week 8 Return - RocketSeat (05/2022) - repos [1](https://github.com/rodolfoHOk/rocketseat.feedback-widget-server) [2](https://github.com/rodolfoHOk/rocketseat.feedback-widget-web) [3](https://github.com/rodolfoHOk/rocketseat.feedback-widget-mobile)
 
@@ -74,15 +92,11 @@
 
 - Evento: Pottencial Dev Week - Digital Innovation One (08/2022) - [repo](https://github.com/rodolfoHOk/dio.pottencial-dev-week)
 
-- Curso: Especialista Spring Rest (Atualizações SpringDoc e novo Spring Authorization Server) - AlgaWorks (08/2022) - [repo](https://github.com/rodolfoHOk/algaworks.algafood-api) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-esr.png)
-
 - Evento: Next Level Week 9 eSports - RocketSeat (09/2022) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-esports)
 
 - Evento: ifood Dev Week - Digital Innovation One (09/2022) - [repo](https://github.com/rodolfoHOk/dio.ifood-dev-week)
 
 - Evento: Ignite Lab Design System - RocketSeat (10/2022) - [repo](https://github.com/rodolfoHOk/rocketseat.lab-design-system)
-
-- Curso: Java e Orientação a Objetos - AlgaWorks (08/2022 - 10/2022) - [repo](https://github.com/rodolfoHOk/algaworks.joo) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-joo.png)
 
 - Evento: Maratona Live Code Totvs (estréia da Totvs na twitch.tv) - Totvs (10/2022) - repos [1](https://github.com/rodolfoHOk/totvs.chat-api) [2](https://github.com/rodolfoHOk/totvs.chat-app)
 
@@ -100,11 +114,7 @@
 
 - Evento: Ignite Lab Node Notifications Service - RocketSeat (12/2022) - [repo](https://github.com/rodolfoHOk/rocketseat.lab-notifications)
 
-- Curso: Especialista Spring Rest (Atualização SpringBoot 3) - AlgaWorks (12/2022) - [repo](https://github.com/rodolfoHOk/algaworks.algafood-api) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-algaworks-esr.png)
-
 - Evento: Next Level Week 11 Setup - RocketSeat (01/2023) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-setup)
-
-- Curso: Angular - Loiane Training (12/2022-01/2023) - [repo](https://github.com/rodolfoHOk/loiane-training.curso-angular) - [certificado](https://github.com/rodolfoHOk/portfolio-img/raw/main/images/certificado-loiane-training-curso-angular.png)
 
 - Evento: Go Intensivo 2 - Code Edu / FullCycle (03/2023) - [repo](https://github.com/rodolfoHOk/fullcycle.go-intensivo-2)
 
@@ -120,15 +130,11 @@
 
 - Live Coding: Criando seu Avatar com Inteligência Artificial Generativa utilizando Java e Microsserviços - DIO (05/2023) - [repo](https://github.com/rodolfoHOk/dio.ia-avatar)
 
-- Desafio: Place Service com Java, Spring, Spring WebFlux, Spring Data + R2DBC, H2 database e Testes de integração - Giuliana Bezerra (06/2023) - [repo](https://github.com/rodolfoHOk/giuliana.place-service)
-
 - Live Coding: Criando um carrossel parallax do Aranhaverso com React, Next.js 13 e Framer Motion - DIO (06/2023) - [repo](https://github.com/rodolfoHOk/dio.aranhaverso)
 
 - Evento: Imersão Full Cycle Full Stack 13 - Code Edu / FullCycle (06/2023) - [repos](https://github.com/rodolfoHOk/fullcycle.imersao13)
 
 - Evento: Imersão IA - Alura (06/2023)
-
-- Curso: Treinamento de Vue.js 3 - VueJs Brasil (07/2023 - 08/2023) - [repos](https://github.com/rodolfoHOk/igorhalfeld.treinamento-vuejs) [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/treinamento-vuejs3-brasil-certificado.pdf)
 
 - Evento: Semana do herói Hero Ticket - Hero Code (08/2023) - repos [backend](https://github.com/rodolfoHOk/herocode.hero-tickets-backend) [frontend](https://github.com/rodolfoHOk/herocode.hero-tickets-frontend)
 
@@ -148,17 +154,11 @@
 
 - Evento: Semana do Arquiteto Full Cycle - Code Edu / FullCycle (11/2023) - [repo](https://github.com/rodolfoHOk/fullcycle.arquitetura)
 
-- Curso: Vivendo de automação com Arduino e ESP32 - EngEasier (11-2023) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-automacao-arduino-esp32.pdf)
-
-- Curso: Testes automatizados na prática com Spring Boot - Udemy by Giuliana Silva Bezerra (11-2023) - [certificado](https://raw.githubusercontent.com/rodolfoHOk/portfolio-img/main/images/certificado-udemy-testes-automatizados-com-spring.jpg), [repo](https://github.com/rodolfoHOk/giuliana.curso-testes-automatizados)
-
 - Evento: Imersão Front-end - Spotify - Alura (01-2024) - [repo](https://github.com/rodolfoHOk/alura.imersao-frontend-spotify)
 
 - Evento: Imersão Full Cycle Full Stack 17 - Code Edu / FullCycle (02/2024) - [repos](https://github.com/rodolfoHOk/fullcycle.imersao17)
 
 - Evento: Semana do Herói - Talk to me - HeroCode (02/2024) - [repos](https://github.com/rodolfoHOk/herocode.talk-to-me)
-
-- Curso: Formação Flutter Specialist - DIO (11/2023 - 02/2024) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/images/certificado-forma%C3%A7%C3%A3o-flutter-dio.pdf) - [repo](https://github.com/rodolfoHOk/dio.formacao-flutter) - desafios [1](https://github.com/rodolfoHOk/dio.imc-dart) [2](https://github.com/rodolfoHOk/dio.imc-flutter) [3](https://github.com/rodolfoHOk/dio.cep-flutter) [4](https://github.com/rodolfoHOk/dio.contatos-flutter) [5](https://github.com/rodolfoHOk/dio.lista-tarefas-flutter) [6](https://github.com/rodolfoHOk/dio.chat-flutter)
 
 - Evento: NLW Expert - Rocketseat (02/2024) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-expert), [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/docs/certificate-nlw-expert.pdf)
 
@@ -172,4 +172,10 @@
 
 - Evento: Imersão Python: Do Excel à Análise de Dados - Alura (25-29/03/2024) - [repo](https://github.com/rodolfoHOk/alura.imersao-python)
 
-- Curso: Formação Android Developer - DIO (02/2024 - 04/2024) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/docs/certificado-formacao-android-dio.jpg) - [repo](https://github.com/rodolfoHOk/dio.formacao-android) - desafios [1](https://github.com/rodolfoHOk/dio.aprenda-kotlin-com-exemplos-lab) [2](https://github.com/rodolfoHOk/dio.android-meu-primeiro-app) [3](https://github.com/rodolfoHOk/dio.android-github-search) [4](https://github.com/rodolfoHOk/dio.copa-2022-android)
+### Outros
+
+- Projeto: Site MRJ Serviços - criado e mantido entre (2011-2018) - [repo](https://github.com/rodolfoHOk/hiok.site-mrj)
+
+- Estudos: Design Patterns com exemplos em Java - Refactoring Guru (03/2022) - [repo](https://github.com/rodolfoHOk/refactoring-guru.design-patterns)
+
+- Desafio: Place Service com Java, Spring, Spring WebFlux, Spring Data + R2DBC, H2 database e Testes de integração - Giuliana Bezerra (06/2023) - [repo](https://github.com/rodolfoHOk/giuliana.place-service)
