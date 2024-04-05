@@ -172,6 +172,8 @@
 
 - Evento: Imersão Python: Do Excel à Análise de Dados - Alura (25-29/03/2024) - [repo](https://github.com/rodolfoHOk/alura.imersao-python)
 
+- Evento: NLW Unite - Rocketseat (01a04-04/2024) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-unite), [certificado - em breve](https://github.com/rodolfoHOk/portfolio-img/blob/main/docs/)
+
 ### Outros
 
 - Projeto: Site MRJ Serviços - criado e mantido entre (2011-2018) - [repo](https://github.com/rodolfoHOk/hiok.site-mrj)
