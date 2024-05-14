@@ -38,7 +38,7 @@
 
 ##
 
-### 🧑‍🎓 [Meu histórico de estudos](historic.md) 🎟️
+### 🧑‍🎓 [Meu histórico de estudos](history.md) 🎟️
 
 ##
 
