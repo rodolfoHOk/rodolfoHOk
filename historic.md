@@ -172,7 +172,11 @@
 
 - Evento: Imersão Python: Do Excel à Análise de Dados - Alura (25-29/03/2024) - [repo](https://github.com/rodolfoHOk/alura.imersao-python), [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/docs/certificado-imersao-python-alura.png)
 
-- Evento: NLW Unite - Rocketseat (01a04-04/2024) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-unite), [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/docs/certificate-nlw-unite.pdf)
+- Evento: NLW Unite - Rocketseat (01a04/04/2024) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-unite), [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/docs/certificate-nlw-unite.pdf)
+
+- Evento: Imersão AI 2a edição - Alura e Google (06a10/05/2024) - [repo](https://github.com/rodolfoHOk/alura.imersao-ia2), [certificado em breve 20-05-2024]()
+
+- Evento: Go Intensivo 3 - Code Edu / FullCycle (13a15/05/2024) - [repo](https://github.com/rodolfoHOk/fullcycle.go-intensivo-3)
 
 ### Outros
 
