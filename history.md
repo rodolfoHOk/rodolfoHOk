@@ -174,7 +174,7 @@
 
 - Evento: NLW Unite - Rocketseat (01a04/04/2024) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-unite), [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/docs/certificate-nlw-unite.pdf)
 
-- Evento: Imersão AI 2a edição - Alura e Google (06a10/05/2024) - [repo](https://github.com/rodolfoHOk/alura.imersao-ia2), [certificado em breve 20-05-2024]()
+- Evento: Imersão AI 2a edição - Alura e Google (06a10/05/2024) - [repo](https://github.com/rodolfoHOk/alura.imersao-ia2), [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/docs/certificado-imersao-ia2-alura.pdf)
 
 - Evento: Go Intensivo 3 - Code Edu / FullCycle (13a15/05/2024) - [repo](https://github.com/rodolfoHOk/fullcycle.go-intensivo-3)
 
