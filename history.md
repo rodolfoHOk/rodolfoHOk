@@ -178,6 +178,8 @@
 
 - Evento: Go Intensivo 3 - Code Edu / FullCycle (13a15/05/2024) - [repo](https://github.com/rodolfoHOk/fullcycle.go-intensivo-3)
 
+- Evento: Semana do Herói 4a edição - Find Book - HeroCode (03a06/06/2024) - [repo](https://github.com/rodolfoHOk/herocode.find-book) 
+
 ### Outros
 
 - Projeto: Site MRJ Serviços - criado e mantido entre (2011-2018) - [repo](https://github.com/rodolfoHOk/hiok.site-mrj)
