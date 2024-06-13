@@ -48,6 +48,8 @@
 
 - Curso: Formação Android Developer - DIO (02/2024 - 04/2024) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/docs/certificado-formacao-android-dio.jpg) - [repo](https://github.com/rodolfoHOk/dio.formacao-android) - desafios [1](https://github.com/rodolfoHOk/dio.aprenda-kotlin-com-exemplos-lab) [2](https://github.com/rodolfoHOk/dio.android-meu-primeiro-app) [3](https://github.com/rodolfoHOk/dio.android-github-search) [4](https://github.com/rodolfoHOk/dio.copa-2022-android)
 
+- Curso: Formação Spring WebFlux - DIO (04/2024 - 06/2024) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/docs/certificado-formacao-spring-webflux.pdf) - [repo](https://github.com/rodolfoHOk/dio.formacao-spring-webflux) - desafios [1](https://github.com/rodolfoHOk/dio.desafio-reactor) [2](https://github.com/rodolfoHOk/dio.desafio-reactive-bingo)
+
 ### Eventos e Live Coding
 
 - Evento: Imersão React - Alura (08/2020) - [repo](https://github.com/rodolfoHOk/alura.doolpflix)
