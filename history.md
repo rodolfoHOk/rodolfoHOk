@@ -180,7 +180,9 @@
 
 - Evento: Go Intensivo 3 - Code Edu / FullCycle (13a15/05/2024) - [repo](https://github.com/rodolfoHOk/fullcycle.go-intensivo-3)
 
-- Evento: Semana do Herói 4a edição - Find Book - HeroCode (03a06/06/2024) - [repo](https://github.com/rodolfoHOk/herocode.find-book) 
+- Evento: Semana do Herói 4a edição - Find Book - HeroCode (03a06/06/2024) - [repo](https://github.com/rodolfoHOk/herocode.find-book)
+
+- Evento: NLW Journey - Rocketseat (08a11/07/2024) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-journey)
 
 ### Outros
 
