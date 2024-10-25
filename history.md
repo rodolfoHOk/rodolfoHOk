@@ -186,6 +186,8 @@
 
 - Evento: Curso online de PHP - Rocketseat (07a10/10/2024) - [repo](https://github.com/rodolfoHOk/rocketseat.curso-php), [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/docs/certificate-curso-online-de-php.pdf)
 
+- Evento: Imersão FullStack & FullCycle 19 - Code Edu / FullCycle (21-25/10/2024) - [repos](https://github.com/rodolfoHOk/fullcycle.imersao19)
+
 ### Outros
 
 - Projeto: Site MRJ Serviços - criado e mantido entre (2011-2018) - [repo](https://github.com/rodolfoHOk/hiok.site-mrj)
