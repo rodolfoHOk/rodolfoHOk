@@ -188,6 +188,8 @@
 
 - Evento: Imersão FullStack & FullCycle 19 - Code Edu / FullCycle (21-25/10/2024) - [repos](https://github.com/rodolfoHOk/fullcycle.imersao19)
 
+- Evento: Curso gratuito de Java - Rocketseat (18a21/11/2024) - repos [1](https://github.com/rodolfoHOk/rocketseat.java-generate-shortner-url) [2](https://github.com/rodolfoHOk/rocketseat.java-redirect-shortner-url) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/docs/rocketseat-curso-java-certificate.pdf)
+
 ### Outros
 
 - Projeto: Site MRJ Serviços - criado e mantido entre (2011-2018) - [repo](https://github.com/rodolfoHOk/hiok.site-mrj)
