@@ -190,6 +190,8 @@
 
 - Evento: Curso gratuito de Java - Rocketseat (18a21/11/2024) - repos [1](https://github.com/rodolfoHOk/rocketseat.java-generate-shortner-url) [2](https://github.com/rodolfoHOk/rocketseat.java-redirect-shortner-url) - [certificado](https://github.com/rodolfoHOk/portfolio-img/blob/main/docs/rocketseat-curso-java-certificate.pdf)
 
+- Evento: NLW Pocket Mobile - Rocketseat (09a12/12/2024) - [repos](https://github.com/rodolfoHOk/rocketseat.nlw-pocket-mobile)
+
 ### Outros
 
 - Projeto: Site MRJ Serviços - criado e mantido entre (2011-2018) - [repo](https://github.com/rodolfoHOk/hiok.site-mrj)
