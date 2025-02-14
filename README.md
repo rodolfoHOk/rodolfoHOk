@@ -1,6 +1,6 @@
 ### Olá! Eu sou Rodolfo H Okino 👋
 
-🔭 Desenvolvedor de Software Fullstack Java React e Técnico de elétrica-eletrônica e TI
+🔭 Desenvolvedor de Software Fullstack e Técnico em elétrica-eletrônica e TI
 
 <div>
   <a href = "mailto:hioktec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
